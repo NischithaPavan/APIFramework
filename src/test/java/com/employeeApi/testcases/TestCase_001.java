@@ -3,6 +3,7 @@ package com.employeeApi.testcases;
 
 
 import org.testng.Assert;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -60,6 +61,34 @@ public class TestCase_001 extends TestBase {
 
 	}
 	
+	@Test 
+	public void verifyContentType() {
+		logger.info("***********Checking Content type**********");
+		String contenttype=response.contentType();
+		logger.info("Content type==>"+contenttype);
+		Assert.assertEquals(contenttype,"application/json; charset=utf-8");
+		
+	}
+	@Test
+	public void verifyServerType() {
+		logger.info("*********checking server type*******");
+		String servertype=response.header("Server");
+		logger.info("Server type==>"+servertype);
+		Assert.assertEquals(servertype, "cloudflare");
+		
+	}
+//	@Test
+//	public void VerifyCookies() {
+//		logger.info("******Checking cookies type****");
+//		String cookies=response.cookie("dfgdj");
+//		logger.info("cookie==>"+cookies);
+//		Assert.assertEquals(cookies,"null" );
+//	}
+//	
+	@AfterClass()
+	public void teardown() {
+		logger.info("***********END Test Case 01****************************");
+	}
 	
 	
 	

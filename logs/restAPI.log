@@ -16,4 +16,57 @@
  2023-03-27 10:28:36 INFO  APIFramework:58 - StatusLine==>HTTP/1.1 200 OK
  2023-03-27 10:28:36 INFO  APIFramework:27 - ***********Checking response body**********
  2023-03-27 10:28:36 INFO  APIFramework:30 - Response body==>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+ 2023-03-28 08:50:35 INFO  APIFramework:19 - ***********Started Tc_001_GetAllEmployess*********
+ 2023-03-28 08:50:37 INFO  APIFramework:81 - ******Checking cookies type****
+ 2023-03-28 08:50:37 INFO  APIFramework:83 - cookie==>null
+ 2023-03-28 08:50:37 INFO  APIFramework:65 - ***********Checking Content type**********
+ 2023-03-28 08:50:37 INFO  APIFramework:67 - Content type==>application/json; charset=utf-8
+ 2023-03-28 08:50:37 INFO  APIFramework:45 - ***********Checking response time**********
+ 2023-03-28 08:50:37 INFO  APIFramework:48 - responseTime==>968
+ 2023-03-28 08:50:37 INFO  APIFramework:73 - *********checking server type*******
+ 2023-03-28 08:50:37 INFO  APIFramework:75 - Server type==>cloudflare
+ 2023-03-28 08:50:37 INFO  APIFramework:36 - ***********Checking Status code**********
+ 2023-03-28 08:50:37 INFO  APIFramework:39 - Status code==>200
+ 2023-03-28 08:50:37 INFO  APIFramework:56 - ***********Checking Status line**********
+ 2023-03-28 08:50:37 INFO  APIFramework:58 - StatusLine==>HTTP/1.1 200 OK
+ 2023-03-28 08:50:37 INFO  APIFramework:27 - ***********Checking response body**********
+ 2023-03-28 08:50:37 INFO  APIFramework:30 - Response body==>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+ 2023-03-28 08:50:56 INFO  APIFramework:19 - ***********Started Tc_001_GetAllEmployess*********
+ 2023-03-28 08:50:57 INFO  APIFramework:81 - ******Checking cookies type****
+ 2023-03-28 08:50:57 INFO  APIFramework:83 - cookie==>null
+ 2023-03-28 08:50:57 INFO  APIFramework:65 - ***********Checking Content type**********
+ 2023-03-28 08:50:57 INFO  APIFramework:67 - Content type==>application/json; charset=utf-8
+ 2023-03-28 08:50:57 INFO  APIFramework:45 - ***********Checking response time**********
+ 2023-03-28 08:50:57 INFO  APIFramework:48 - responseTime==>713
+ 2023-03-28 08:50:57 INFO  APIFramework:73 - *********checking server type*******
+ 2023-03-28 08:50:57 INFO  APIFramework:75 - Server type==>cloudflare
+ 2023-03-28 08:50:57 INFO  APIFramework:36 - ***********Checking Status code**********
+ 2023-03-28 08:50:57 INFO  APIFramework:39 - Status code==>200
+ 2023-03-28 08:50:57 INFO  APIFramework:56 - ***********Checking Status line**********
+ 2023-03-28 08:50:57 INFO  APIFramework:58 - StatusLine==>HTTP/1.1 200 OK
+ 2023-03-28 08:50:57 INFO  APIFramework:27 - ***********Checking response body**********
+ 2023-03-28 08:50:57 INFO  APIFramework:30 - Response body==>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+ 2023-03-28 08:51:06 INFO  APIFramework:19 - ***********Started Tc_001_GetAllEmployess*********
+ 2023-03-28 08:51:07 INFO  APIFramework:65 - ***********Checking Content type**********
+ 2023-03-28 08:51:07 INFO  APIFramework:67 - Content type==>application/json; charset=utf-8
+ 2023-03-28 08:51:16 INFO  APIFramework:19 - ***********Started Tc_001_GetAllEmployess*********
+ 2023-03-28 08:51:17 INFO  APIFramework:81 - ******Checking cookies type****
+ 2023-03-28 08:51:17 INFO  APIFramework:83 - cookie==>null
+ 2023-03-28 08:51:23 INFO  APIFramework:19 - ***********Started Tc_001_GetAllEmployess*********
+ 2023-03-28 08:51:25 INFO  APIFramework:73 - *********checking server type*******
+ 2023-03-28 08:51:25 INFO  APIFramework:75 - Server type==>cloudflare
+ 2023-03-28 08:53:01 INFO  APIFramework:20 - ***********Started Tc_001_GetAllEmployess*********
+ 2023-03-28 08:53:02 INFO  APIFramework:66 - ***********Checking Content type**********
+ 2023-03-28 08:53:02 INFO  APIFramework:68 - Content type==>application/json; charset=utf-8
+ 2023-03-28 08:53:02 INFO  APIFramework:46 - ***********Checking response time**********
+ 2023-03-28 08:53:02 INFO  APIFramework:49 - responseTime==>654
+ 2023-03-28 08:53:02 INFO  APIFramework:74 - *********checking server type*******
+ 2023-03-28 08:53:02 INFO  APIFramework:76 - Server type==>cloudflare
+ 2023-03-28 08:53:02 INFO  APIFramework:37 - ***********Checking Status code**********
+ 2023-03-28 08:53:02 INFO  APIFramework:40 - Status code==>200
+ 2023-03-28 08:53:02 INFO  APIFramework:57 - ***********Checking Status line**********
+ 2023-03-28 08:53:02 INFO  APIFramework:59 - StatusLine==>HTTP/1.1 200 OK
+ 2023-03-28 08:53:02 INFO  APIFramework:28 - ***********Checking response body**********
+ 2023-03-28 08:53:02 INFO  APIFramework:31 - Response body==>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+ 2023-03-28 08:53:02 INFO  APIFramework:90 - ***********END Test Case 01****************************
  
